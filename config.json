@@ -1,3 +1,11 @@
 {
- "token": "your_token"
+"ip": "exserc.play.hosting",
+"port": "64585",
+"password":
+"prefix":"1",
+"login-enabled": "false",
+"register-cmd": "/login kartikopp kartikopp",
+"login-cmd": "/login kartikopp",
+"loginmsg": "done",
+"web": "true"
 }
